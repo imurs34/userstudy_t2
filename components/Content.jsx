@@ -319,8 +319,8 @@ const Inner = styled.div`
     flex: 1;
     align-items: stretch;
     ${(props)=> props.disableControl && css`
-            margin-left:100px;
-            margin-right:100px;
+            margin-left:70px;
+            margin-right:130px;
             outline: 1px solid gray;
         `
     }
