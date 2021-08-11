@@ -2004,11 +2004,11 @@
                     },
                     {
                         "label": "text_box",
-                        "box_info_original": [13, 73, 388, 90],
+                        "box_info_original": [13, 73, 350, 90],
                         "in_column": 1,
                         "order": 1,
                         "text_content": "• Positive aspects:\n     - The map is engaging as it scrolls through the relevant years in a fairly rapid fashion\n     - It is easy to spot the patterns, or geographic areas where coverage is particularly good or poor",
-                        "avail_font_size": 1.8,
+                        "avail_font_size": 1.5,
                         "typeface": "Roboto",
                         "color_font": "(18, 18, 18)",
                         "color_bg": "(253, 253, 253)"
@@ -2039,11 +2039,11 @@
                     },
                     {
                         "label": "text_box",
-                        "box_info_original": [13, 73, 388, 180],
+                        "box_info_original": [13, 73, 350, 180],
                         "in_column": 1,
                         "order": 1,
                         "text_content": "• Areas for improvement:\n     - There is no clear delineation of major policy changes, like the passing of the Affordable Cara Act\n     - You do not see years next to each other, making it more difficult to compare",
-                        "avail_font_size": 1.8,
+                        "avail_font_size": 1.5,
                         "typeface": "Roboto",
                         "color_font": "(18, 18, 18)",
                         "color_bg": "(253, 253, 253)"
@@ -2796,11 +2796,11 @@
                     },
                     {
                         "label": "text_box",
-                        "box_info_original": [13, 73, 388, 90],
+                        "box_info_original": [13, 73, 350, 90],
                         "in_column": 1,
                         "order": 1,
                         "text_content": "• Positive aspects:\n     - The map is engaging as it scrolls through the relevant years in a fairly rapid fashion\n     - It is easy to spot the patterns, or geographic areas where coverage is particularly good or poor",
-                        "avail_font_size": 1.8,
+                        "avail_font_size": 1.5,
                         "typeface": "Roboto",
                         "color_font": "(253, 253, 253)",
                         "color_bg": "(47, 48, 49)"
@@ -2831,11 +2831,11 @@
                     },
                     {
                         "label": "text_box",
-                        "box_info_original": [13, 73, 388, 180],
+                        "box_info_original": [13, 73, 350, 180],
                         "in_column": 1,
                         "order": 1,
                         "text_content": "• Areas for improvement:\n     - There is no clear delineation of major policy changes, like the passing of the Affordable Cara Act\n     - You do not see years next to each other, making it more difficult to compare",
-                        "avail_font_size": 1.8,
+                        "avail_font_size": 1.5,
                         "typeface": "Roboto",
                         "color_font": "(253, 253, 253)",
                         "color_bg": "(47, 48, 49)"
