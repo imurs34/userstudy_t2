@@ -1796,7 +1796,7 @@
                         "in_column": 1,
                         "order": 1,
                         "text_content": "• Charts",
-                        "avail_font_size": 1.8,
+                        "avail_font_size": 1.7,
                         "typeface": "Roboto",
                         "color_font": "(18, 18, 18)",
                         "color_bg": "(253, 253, 253)"
@@ -1807,7 +1807,7 @@
                         "in_column": 1,
                         "order": 2,
                         "text_content": "• Graphs",
-                        "avail_font_size": 1.8,
+                        "avail_font_size": 1.7,
                         "typeface": "Roboto",
                         "color_font": "(18, 18, 18)",
                         "color_bg": "(253, 253, 253)"
@@ -1818,7 +1818,7 @@
                         "in_column": 1,
                         "order": 3,
                         "text_content": "• Maps",
-                        "avail_font_size": 1.8,
+                        "avail_font_size": 1.7,
                         "typeface": "Roboto",
                         "color_font": "(18, 18, 18)",
                         "color_bg": "(253, 253, 253)"
@@ -1829,7 +1829,7 @@
                         "in_column": 1,
                         "order": 4,
                         "text_content": "• Infographics",
-                        "avail_font_size": 1.8,
+                        "avail_font_size": 1.7,
                         "typeface": "Roboto",
                         "color_font": "(18, 18, 18)",
                         "color_bg": "(253, 253, 253)"
@@ -1840,7 +1840,7 @@
                         "in_column": 1,
                         "order": 5,
                         "text_content": "• Dashboards",
-                        "avail_font_size": 1.8,
+                        "avail_font_size": 1.7,
                         "typeface": "Roboto",
                         "color_font": "(18, 18, 18)",
                         "color_bg": "(253, 253, 253)"
@@ -1851,7 +1851,7 @@
                         "in_column": 1,
                         "order": 6,
                         "text_content": "• Storyboards",
-                        "avail_font_size": 1.8,
+                        "avail_font_size": 1.7,
                         "typeface": "Roboto",
                         "color_font": "(18, 18, 18)",
                         "color_bg": "(253, 253, 253)"
@@ -2610,7 +2610,7 @@
                         "in_column": 1,
                         "order": 3,
                         "text_content": "• Maps",
-                        "avail_font_size": 1.8,
+                        "avail_font_size": 1.7,
                         "typeface": "Roboto",
                         "color_font": "(253, 253, 253)",
                         "color_bg": "(47, 48, 49)"
@@ -2621,7 +2621,7 @@
                         "in_column": 1,
                         "order": 4,
                         "text_content": "• Infographics",
-                        "avail_font_size": 1.8,
+                        "avail_font_size": 1.7,
                         "typeface": "Roboto",
                         "color_font": "(253, 253, 253)",
                         "color_bg": "(47, 48, 49)"
@@ -2632,7 +2632,7 @@
                         "in_column": 1,
                         "order": 5,
                         "text_content": "• Dashboards",
-                        "avail_font_size": 1.8,
+                        "avail_font_size": 1.7,
                         "typeface": "Roboto",
                         "color_font": "(253, 253, 253)",
                         "color_bg": "(47, 48, 49)"
@@ -2643,7 +2643,7 @@
                         "in_column": 1,
                         "order": 6,
                         "text_content": "• Storyboards",
-                        "avail_font_size": 1.8,
+                        "avail_font_size": 1.7,
                         "typeface": "Roboto",
                         "color_font": "(253, 253, 253)",
                         "color_bg": "(47, 48, 49)"
